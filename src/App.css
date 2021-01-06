@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  height: 717px;
+  background: linear-gradient(to right, rgb(255, 222, 113), rgb(255, 147, 147));
+}
+
+h1 {
+  font-size: 40px;
+  padding-top: 30px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+button{
+  padding: 7px;
+  font-size: 20px;
+  border-radius: 10px;
+  color: rgb(0, 0, 51);
+  cursor: pointer;
+  outline: none;
+}
